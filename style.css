@@ -1,0 +1,48 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1{
+
+    font-size: 50;
+}
+
+#ashikvai{
+
+
+     color: red;
+}
+
+section{
+
+    display: flex;
+}
+
+.size{
+
+    width: 50%;
+}
+.size img{
+
+    width: 80%;
+}
+
+.linkbutton{
+
+    color: blue;
+    background-color: bisque;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+
+}
+.topbanner{
+
+    background-image: url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+
+}
